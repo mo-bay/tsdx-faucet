@@ -2,15 +2,15 @@
   "environment": "live",
   "debug": false,
   "Captcha": {
-    "secret": "xxx"
+    "secret": "6LfCPsAbAAAAAJ0uCWy-UyPqN0IGMlSvioCfduZi"
   },
   "Ethereum": {
     "etherToTransfer": 15,
     "gasLimit": "0x7b0c",
     "live": {
-      "rpc": "https://testnet.tomochain.com",
-      "account": "0xfa6FC26F897027289017bEC8279a3b4b2F3c50D4",
-      "privateKey": "xxx"
+      "rpc": "https://rpc.testnet.swapdex.net",
+      "account": "0xBF9C2Fa32Df8E5680A43Ac600e8E908393Bf1D95",
+      "privateKey": "e35f8b8b0d2c05130db06d7d57c3591f3ee0d8c510c175dd8cda3927156f74ea"
     }
   }
 }

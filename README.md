@@ -1,4 +1,4 @@
-## Tomochain Testnet Faucet
+## SmartDex Testnet Faucet
 
 ### Building from source
 
